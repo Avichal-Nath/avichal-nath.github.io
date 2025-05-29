@@ -42,6 +42,7 @@ $(document).ready(function () {
       strings: [
         "Final Year Software Engineering Student",
         "Frontend Developer",
+        "Thalassophile",
         "Tech Enthusiast",
         "Visionary Individual",
         "Dog Lover"
